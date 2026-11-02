@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Handwritten Digit Recognition Using CNN
 
@@ -101,3 +102,6 @@ This project demonstrates the complete machine learning
 pipeline, including data preprocessing, CNN model development,
 model training, evaluation, and real-time handwritten
 digit prediction through an interactive graphical interface.
+=======
+# MNIST-Project-
+>>>>>>> fd4a431e12c7ea318be48d6bea32d195e41730e7
